@@ -12,10 +12,10 @@ dotnet user-secrets set "EmailUsername" "<email-username>" --project Bloggie
 dotnet user-secrets set "EmailPassword" "<email-password>" --project Bloggie
 ```
 
-//package manager consola bunları yapıştırdık
+//package manager consola bunlarÃ½ yapÃ½Ã¾tÃ½rdÃ½k
 dotnet user-secrets set "EmailUsername" "test@burcinilker.com" --project Bloggie
 
-dotnet user-secrets set "EmailPassword" "Nicrub518518." --project Bloggie
+dotnet user-secrets set "EmailPassword" "*******." --project Bloggie
 
 ##useful links
 
